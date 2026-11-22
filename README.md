@@ -7,7 +7,7 @@
 ![License: MIT](https://img.shields.io/badge/license-MIT-green)
 
 **Live demo:** 
-
+https://wambua7.github.io/TechGadget-Price/
 
 
 ## Table of Contents
