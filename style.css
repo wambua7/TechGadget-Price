@@ -1,0 +1,30 @@
+*{
+    box-sizing: border-box;
+}
+.container {
+    max-width: 15rem;
+    height: 6vh;
+    margin: 5px;
+}
+article:first-of-type{
+    border: 2px solid gold;
+    margin: 5px;
+    padding: 5px;
+}
+
+button:hover{
+    background-color: red;
+}
+ul li {
+    text-decoration: none;
+    text-shadow: 1px 1px 1px black;
+    text-transform: uppercase;
+}
+.price-tag > span {
+    color: red;
+    font-size: 24px;
+}
+h2 + div {
+    color: brown;
+    font-size: 23px;
+}
